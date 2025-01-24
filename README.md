@@ -10,7 +10,7 @@ Creates an AWS Glue database and an external table for querying the data.
 Configures Amazon Athena for querying data stored in the S3 bucket.
 
 ## Technical Architecture
-
+[AWS](https://github.com/PreciousDipe/NBADataLake/blob/main/nba.drawio.svg)
 
 # START HERE 
 ## 1. Clone Repository from GitHub
